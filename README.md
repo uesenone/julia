@@ -1,6 +1,6 @@
 # 谷歌留痕外链工具Google dohle external link tool
 image
-
+全套下载地址：https://github.com/uesenone/julia/releases/tag/%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E5%A4%96%E9%93%BE%E5%B7%A5%E5%85%B7
 image image
 谷歌留痕工具 - 功能演示说明
 工具概述
